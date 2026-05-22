@@ -39,7 +39,7 @@ class Cliente:
             case 1:
                 return "Lead"
             case 2:
-                return "Em contato"
+                return "Em contato" 
             case 3:
                 return "Negociando"
             case 4:
